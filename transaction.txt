@@ -1,0 +1,6 @@
+{
+    "from": "Alice",
+    "to": "Bob",
+    "amount": 10,
+    "timestamp": "2026-04-22T10:30:00"
+}
